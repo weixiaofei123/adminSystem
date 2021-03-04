@@ -1,0 +1,12 @@
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\bin\Debug\netcoreapp3.1\adminSystem.Model.deps.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\bin\Debug\netcoreapp3.1\adminSystem.Model.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\bin\Debug\netcoreapp3.1\adminSystem.Model.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.csprojAssemblyReference.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.AssemblyInfoInputs.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.AssemblyInfo.cs
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.csproj.CoreCompileInputs.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\bin\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\bin\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Model\obj\Debug\netcoreapp3.1\adminSystem.Model.csproj.CopyComplete

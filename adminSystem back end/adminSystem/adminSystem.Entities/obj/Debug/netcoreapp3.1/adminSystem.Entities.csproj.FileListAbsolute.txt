@@ -1,0 +1,24 @@
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.deps.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.csprojAssemblyReference.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.AssemblyInfoInputs.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.AssemblyInfo.cs
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.runtimeconfig.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.runtimeconfig.dev.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.csproj.CoreCompileInputs.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.genruntimeconfig.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.deps.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.runtimeconfig.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.runtimeconfig.dev.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\bin\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.csprojAssemblyReference.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.AssemblyInfoInputs.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.AssemblyInfo.cs
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.csproj.CoreCompileInputs.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem.Entities\obj\Debug\netcoreapp3.1\adminSystem.Entities.genruntimeconfig.cache

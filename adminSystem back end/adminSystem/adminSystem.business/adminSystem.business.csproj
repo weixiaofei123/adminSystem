@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\adminSystem.data.EF\adminSystem.data.EF.csproj" />
+    <ProjectReference Include="..\adminSystem.Entities\adminSystem.Entities.csproj" />
+    <ProjectReference Include="..\adminSystem.Model\adminSystem.Model.csproj" />
+    <ProjectReference Include="..\adminSystem.Util\adminSystem.Util.csproj" />
+  </ItemGroup>
+
+</Project>

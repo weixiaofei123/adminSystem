@@ -1,0 +1,151 @@
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\appsettings.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.exe
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.deps.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.runtimeconfig.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.runtimeconfig.dev.json
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.csprojAssemblyReference.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.AssemblyInfoInputs.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.AssemblyInfo.cs
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.RazorTargetAssemblyInfo.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.csproj.CopyComplete
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\staticwebassets\adminSystem.web.StaticWebAssets.Manifest.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\staticwebassets\adminSystem.web.StaticWebAssets.xml
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.genruntimeconfig.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.csproj.CoreCompileInputs.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.MvcApplicationPartsAssemblyInfo.cache
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.data.EF.dll
+E:\it document\back end\asp.net\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.data.EF.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\appsettings.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.exe
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.deps.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.runtimeconfig.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.runtimeconfig.dev.json
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.web.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.data.EF.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Entities.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.data.EF.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Entities.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.csprojAssemblyReference.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.AssemblyInfoInputs.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.AssemblyInfo.cs
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.csproj.CoreCompileInputs.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.MvcApplicationPartsAssemblyInfo.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\staticwebassets\adminSystem.web.StaticWebAssets.Manifest.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\staticwebassets\adminSystem.web.StaticWebAssets.xml
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\adminSystem.web.styles.css
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.RazorTargetAssemblyInfo.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.csproj.CopyComplete
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.genruntimeconfig.cache
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\log4net.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.business.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Model.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Util.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.business.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Model.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\adminSystem.Util.pdb
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\JsonLib.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\it\back end\project\adminSystem\adminSystem\adminSystem\obj\Debug\netcoreapp3.1\adminSystem.web.MvcApplicationPartsAssemblyInfo.cs
