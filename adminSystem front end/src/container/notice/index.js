@@ -11,7 +11,6 @@ import ImageIcon from '@material-ui/icons/Image';
 import WorkIcon from '@material-ui/icons/Work';
 import BeachAccessIcon from '@material-ui/icons/BeachAccess';
 
-
 const useStyles = makeStyles((theme) => ({
   root: {
     width: '100%',
@@ -20,20 +19,18 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
+//notice component
 export default function index() {
- const [readStatus,setReadStatus]=useState("not read");
+  const [readStatus, setReadStatus] = useState("not read");
   const classes = useStyles();
-
-  const handelClickReadStatus=(e)=>{
-    if (e.target.innerText=="not read") {
+  const handelClickReadStatus = (e) => {
+    if (e.target.innerText == "not read") {
       setReadStatus("All Read");
-    }else{
+    } else {
       setReadStatus("not read");
     }
   }
-
   return (
-
     <Card>
       <Card>
         <h3>content</h3>
@@ -66,6 +63,5 @@ export default function index() {
         </ListItem>
       </List>
     </Card>
-
   )
 }

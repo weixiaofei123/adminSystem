@@ -10,7 +10,6 @@ import MenuItem from "@material-ui/core/MenuItem";
 import { clearToken } from '../../utils/auth/auth.js'
 import { withRouter } from 'react-router-dom'
 import { logout } from '../../services/auth.js'
-
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -18,21 +17,20 @@ const useStyles = makeStyles((theme) => ({
     width: "100%",
   },
   paper: {
-  
     height: "100%",
     padding: theme.spacing(2),
     textAlign: "center",
     color: theme.palette.text.secondary,
   },
   header: {
-    borderRadius:"0px",
+    borderRadius: "0px",
     height: "80px",
     textAlign: "center",
     color: theme.palette.text.secondary,
   },
   sider: {
     height: "100%",
-    borderRadius:"0px",
+    borderRadius: "0px",
     textAlign: "center",
     color: theme.palette.text.secondary,
     overflow: "hidden",
@@ -41,19 +39,16 @@ const useStyles = makeStyles((theme) => ({
     width: "100%",
     height: "100%",
     margin: 0,
-
     alignContent: "start",
   },
 }));
-
+//layout wrapper for the component
 function LayOut(props) {
   const classes = useStyles();
   const [anchorEl, setAnchorEl] = React.useState(null);
-
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
   };
-
   const handleClose = (e) => {
     setAnchorEl(null);
     if (e.target.innerText == 'Logout') {
@@ -61,19 +56,14 @@ function LayOut(props) {
       logout();
       clearToken();
       props.history.push("/login");
-
     }
-
   };
-
-  const handelClickLogin=()=>{
+  const handelClickLogin = () => {
     props.history.push("/login");
   }
-
   const handelClickNotice = () => {
     props.history.push("/admin/notice");
   }
-  // console.log(props.children)
   return (
     <div className={classes.root}>
       <Grid container spacing={0} className={classes.container}>
@@ -128,10 +118,8 @@ function LayOut(props) {
             <Paper className={classes.paper}>{props.children}</Paper>
           </Grid>
         </Grid>
-
       </Grid>
     </div>
   );
 }
-
 export default withRouter(LayOut);

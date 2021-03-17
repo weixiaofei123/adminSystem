@@ -1,4 +1,4 @@
-import React,{useState,useEffect}from "react";
+import React, { useState, useEffect } from "react";
 import Card from "@material-ui/core/Card";
 import CardHeader from "@material-ui/core/CardHeader";
 import CardContent from "@material-ui/core/CardContent";
@@ -16,11 +16,12 @@ import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
-import { listProducts,modifyProduct } from '../../services/products.js'
-import  './style.scss'
+import { listProducts, modifyProduct } from '../../services/products.js'
+import './style.scss'
 import { makeStyles } from '@material-ui/core/styles';
 import Axios from "axios";
 
+//table structure
 const columns = [
   { id: "id", label: "id", minWidth: 140, align: "left", },
   { id: "name", label: "name", minWidth: 140, align: "left", },
@@ -36,14 +37,14 @@ const columns = [
     label: "img",
     minWidth: 140,
     align: "left",
-    format: (value) =>{ console.log(value);return value?<img  src={"http://localhost:44323"+value}/>:"not exist"},
+    format: (value) => { console.log(value); return value ? <img src={"http://localhost:44323" + value} /> : "not exist" },
   },
   {
     id: "onSale",
     label: "onSale",
     minWidth: 140,
     align: "left",
-    format: (value) =>{return value?"in store":"out of store";},
+    format: (value) => { return value ? "in store" : "out of store"; },
   },
   {
     id: "operation",
@@ -54,49 +55,31 @@ const columns = [
   },
 ];
 
-// function createData(id, name, price) {
-//   return { id, name, price };
-// }
-
-// const rows = [
-//   createData("1", "table", 156),
-//   createData("2", "chair", 50),
-//   createData("3", "matress", 300),
-//   createData("4", "matress", 300),
-//   createData("5", "matress", 300),
-//   createData("6", "matress", 300),
-//   createData("7", "matress", 300),
-//   createData("8", "matress", 300),
-//   createData("9", "matress", 300),
-//   createData("10", "matress", 300),
-//   createData("11", "matress", 300),
-//   createData("12", "matress", 300),
-// ];
-
 const useStyles = makeStyles((theme) => ({
   margin: {
     margin: theme.spacing(1),
   },
- 
+
 }));
 
+
+//list component for list products
 export default function List(props) {
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
-  const [rows,setRows]=React.useState([]);
-const [count,setCount]=React.useState(0);
- const [currentPage,setCurrentPage]=React.useState(1);
+  const [rows, setRows] = React.useState([]);
+  const [count, setCount] = React.useState(0);
+  const [currentPage, setCurrentPage] = React.useState(1);
 
-  useEffect(()=>{
-   
-listProducts(1).then((res)=>{
-console.log(res.data)
-setRows(res.data);
-setCount(res.total);
-}).catch((err)=>{
-  console.log(err);
-});
-  },[]);
+  useEffect(() => {
+    //call products api 
+    listProducts(1).then((res) => {
+      setRows(res.data);
+      setCount(res.total);
+    }).catch((err) => {
+      console.log(err);
+    });
+  }, []);
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -106,70 +89,65 @@ setCount(res.total);
     setOpen(false);
   };
 
-  const handleConfirm=()=>{
+  const handleConfirm = () => {
     //call the api from the back end
   }
 
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(2);
-
   const handleChangePage = (event, newPage) => {
- 
     setPage(newPage);
-    listProducts(newPage+1).then((res)=>{
-   
-   setRows(rows.concat(res.data));
-    setCurrentPage(newPage+1);
-    }).catch((err)=>{
+    listProducts(newPage + 1).then((res) => {
+      setRows(rows.concat(res.data));
+      setCurrentPage(newPage + 1);
+    }).catch((err) => {
       console.log(err);
     });
   };
 
   const handleChangeRowsPerPage = (event) => {
-    console.log("changepage")
     setRowsPerPage(+event.target.value);
     setPage(0);
   };
 
-const handelClickEdit=(productId)=>{
-  props.history.push(`/admin/products/edit/${productId}`);
-}
+  const handelClickEdit = (productId) => {
+    props.history.push(`/admin/products/edit/${productId}`);
+  }
 
-const handleClickOnSale=(productId,product)=>{
-  
-modifyProduct(productId,product).then((res)=>{
- if (res.tag) {
-   listProducts(currentPage).then((res)=>{
-    setRows(rows.slice(0,-2).concat(res.data));
-    setCount(res.total);
-   }).catch((err)=>{
+  const handleClickOnSale = (productId, product) => {
+    //call the edit api
+    modifyProduct(productId, product).then((res) => {
+      if (res.tag) {
+        listProducts(currentPage).then((res) => {
+          setRows(rows.slice(0, -2).concat(res.data));
+          setCount(res.total);
+        }).catch((err) => {
 
-   })
- }
-}).catch((err)=>{
+        })
+      }
+    }).catch((err) => {
 
-});
-}
+    });
+  }
 
-//前端上传文件
-const handelClickUpload=()=>{
-  //拿到前端上传的文件
-  var file=document.getElementById("file").files[0];
-  //吧文件要包裹在formdata里面去
-  console.log(file)
-  var form=new FormData();
-  form.append("file",file);
-  console.log(form)
-  Axios.post("http://localhost:8080/api/products/uploadfile",form);
-}
+  //upload files
+  const handelClickUpload = () => {
+    //get the files from the front end
+    var file = document.getElementById("file").files[0];
+    //wrap the file in the formdata
+    console.log(file)
+    var form = new FormData();
+    form.append("file", file);
+    console.log(form)
+    Axios.post("http://localhost:8080/api/products/uploadfile", form);
+  }
 
 
   return (
-  
     <Card>
       <CardHeader
-        action={<Button variant="contained" color="primary" onClick={()=>{props.history.push("/admin/products/edit")}}>
-        add
+        action={<Button variant="contained" color="primary" onClick={() => { props.history.push("/admin/products/edit") }}>
+          add
       </Button>}
         title="Product List"
       ></CardHeader>
@@ -205,45 +183,45 @@ const handelClickUpload=()=>{
                         if (column.id == "operation") {
                           return (
                             <TableCell key={column.id} align={column.align}>
-                              <Button className="btn" variant="contained" color="primary" className={classes.margin} onClick={()=>{handelClickEdit(row.id)}} >
+                              <Button className="btn" variant="contained" color="primary" className={classes.margin} onClick={() => { handelClickEdit(row.id) }} >
                                 edit
                               </Button>
                               <Button className="btn" variant="contained" color="secondary" className={classes.margin} onClick={handleClickOpen}>
                                 delete
                               </Button>
-                             
-                              <Button className="btn" variant="contained" className={classes.margin}  onClick={()=>{handleClickOnSale(row["id"], {...row,onSale:!row["onSale"]})}}>
-                              {
-                                row["onSale"]?"not onSale":"onSale"
-                              }
+
+                              <Button className="btn" variant="contained" className={classes.margin} onClick={() => { handleClickOnSale(row["id"], { ...row, onSale: !row["onSale"] }) }}>
+                                {
+                                  row["onSale"] ? "not onSale" : "onSale"
+                                }
                               </Button>
-    <Dialog
-        open={open}
-        onClose={handleClose}
-        aria-labelledby="alert-dialog-title"
-        aria-describedby="alert-dialog-description"
-      >
-        <DialogTitle id="alert-dialog-title">{"confirm delete?"}</DialogTitle>
-        <DialogContent>
-          <DialogContentText id="alert-dialog-description">
-            delete the product?
-          </DialogContentText>
-        </DialogContent>
-        <DialogActions>
-          <Button onClick={handleClose} color="primary">
-           Cancel
-          </Button>
-          <Button onClick={handleClose} color="primary" autoFocus onClick={handleConfirm}>
-            Confirm
-          </Button>
-        </DialogActions>
-      </Dialog>
+                              <Dialog
+                                open={open}
+                                onClose={handleClose}
+                                aria-labelledby="alert-dialog-title"
+                                aria-describedby="alert-dialog-description"
+                              >
+                                <DialogTitle id="alert-dialog-title">{"confirm delete?"}</DialogTitle>
+                                <DialogContent>
+                                  <DialogContentText id="alert-dialog-description">
+                                    delete the product?
+                                  </DialogContentText>
+                                </DialogContent>
+                                <DialogActions>
+                                  <Button onClick={handleClose} color="primary">
+                                    Cancel
+                                  </Button>
+                                  <Button onClick={handleClose} color="primary" autoFocus onClick={handleConfirm}>
+                                    Confirm
+                                  </Button>
+                                </DialogActions>
+                              </Dialog>
                             </TableCell>
                           );
                         }
                         return (
                           <TableCell key={column.id} align={column.align}>
-                            {column.format 
+                            {column.format
                               ? column.format(value)
                               : value}
                           </TableCell>
@@ -265,7 +243,6 @@ const handelClickUpload=()=>{
           onChangeRowsPerPage={handleChangeRowsPerPage}
         />
       </CardContent>
-             
     </Card>
   );
 }
